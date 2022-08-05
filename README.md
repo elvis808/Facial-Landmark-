@@ -8,4 +8,4 @@ Click below for demo application.
 
 [DEMO](https://ai-facial-landmark.netlify.app/)
 
-*Please wait a few seconds for the facecam to detect your face through the camera*
+*Please wait a few seconds for the face-cam to detect your face through the camera*
