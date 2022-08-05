@@ -7,3 +7,5 @@ LinkedIn - (https://www.linkedin.com/in/elvis-garramone/)
 Click below for demo application. 
 
 [DEMO](https://ai-facial-landmark.netlify.app/)
+
+*Please wait a few seconds for the facecam to detect your face through the camera*
