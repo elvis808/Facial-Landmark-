@@ -7,4 +7,4 @@ Click below for demo application.
 
 [DEMO](https://ai-facial-landmark.netlify.app/)
 
-*Please wait a few seconds for the face-cam to detect your face through the camera*
+*Please wait a few seconds for the face-cam to detect your face as it is rendering. I also advise to stay in a well lit area for the camera to pinpoint the key points on your face to render out*
