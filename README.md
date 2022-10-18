@@ -4,6 +4,7 @@ This application uses Javascript to detect and map keypoints around my face to c
 
 [DEMO](https://ai-facial-landmark.netlify.app/)
 
+
 {*Please wait a few seconds for the face-cam to detect your face. I advise to stay in a well-lit area so that the camera can pinpoint the key points on your face.*}
 
 
